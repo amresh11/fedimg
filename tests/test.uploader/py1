@@ -1,0 +1,17 @@
+import mock1
+import unittest
+
+import fedimg.uploader
+
+
+class TestUploader(unittest.TestCase):
+    """ This tests fedimg/uploader.py. """
+
+    def setUp(self):
+        pass
+
+    def tearDown(self):
+        pass
+
+if __name__ == '__main__':
+    unittest.main()
